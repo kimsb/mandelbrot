@@ -36,5 +36,5 @@
 
 
 ### Noen fine lenker:
-- Kul side som illustrerer "Iteration orbits" for forskjellige verdier av C.
+- Kul side som illustrerer "Iteration orbits" for forskjellige verdier av C. https://www.geogebra.org/m/BUVhcRSv#material/Npd3kBKn
 - Side som forklarer noen forskjellige algoritmer: https://www.math.univ-toulouse.fr/~cheritat/wiki-draw/index.php/Mandelbrot_set
